@@ -1,1 +1,5 @@
-unsupported reparse point
+public class kurivil {
+    public static void main(String args []){
+        System.out.println("Hola mundo");
+    }
+}    
